@@ -1,2 +1,2 @@
 ## Notebook Upload
-A repositoty for python notebook uploads
+A repo for python notebook uploads
